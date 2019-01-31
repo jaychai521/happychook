@@ -1,0 +1,245 @@
+2019-01-29T02:44:52.660Z - normal: Load ~/.CocosCreator/settings.json
+2019-01-29T02:44:52.663Z - normal: checking language setting...
+2019-01-29T02:44:52.663Z - normal: Language: zh
+2019-01-29T02:44:54.257Z - success: protocol editor-framework registered
+2019-01-29T02:44:54.257Z - success: protocol app registered
+2019-01-29T02:44:54.257Z - success: protocol theme registered
+2019-01-29T02:44:54.257Z - success: protocol packages registered
+2019-01-29T02:44:54.258Z - success: protocol unpack registerred
+2019-01-29T02:44:54.258Z - success: protocol disable-commonjs registerred
+2019-01-29T02:44:54.442Z - normal: connected!
+2019-01-29T02:44:54.452Z - normal: Check project E:\CocosProjects\HappyChook
+2019-01-29T02:44:54.462Z - normal: Initializing project E:\CocosProjects\HappyChook
+2019-01-29T02:44:54.470Z - normal: Initializing Cocos2d
+2019-01-29T02:44:55.137Z - normal: Initializing Asset Database
+2019-01-29T02:44:55.179Z - success: protocol uuid registerred
+2019-01-29T02:44:55.179Z - success: protocol db registerred
+2019-01-29T02:44:55.179Z - success: protocol thumbnail registerred
+2019-01-29T02:44:55.179Z - normal: Loading editor/builtin packages
+2019-01-29T02:44:55.326Z - success: assets loaded
+2019-01-29T02:44:55.329Z - success: builder loaded
+2019-01-29T02:44:55.331Z - success: cocos-analytics loaded
+2019-01-29T02:44:55.334Z - success: console loaded
+2019-01-29T02:44:55.366Z - success: fb-instant-games loaded
+2019-01-29T02:44:55.368Z - success: google-instant-games loaded
+2019-01-29T02:44:55.371Z - success: hierarchy loaded
+2019-01-29T02:44:55.373Z - success: inspector loaded
+2019-01-29T02:44:55.374Z - success: keystore loaded
+2019-01-29T02:44:55.378Z - success: node-library loaded
+2019-01-29T02:44:55.380Z - success: package-asset loaded
+2019-01-29T02:44:55.380Z - success: preferences loaded
+2019-01-29T02:44:55.381Z - success: project-exporter loaded
+2019-01-29T02:44:55.394Z - success: project-importer loaded
+2019-01-29T02:44:55.396Z - success: project-settings loaded
+2019-01-29T02:44:55.397Z - success: ui-kit loaded
+2019-01-29T02:44:55.399Z - success: scene loaded
+2019-01-29T02:44:55.400Z - success: sprite-editor loaded
+2019-01-29T02:44:55.402Z - success: store loaded
+2019-01-29T02:44:55.405Z - success: timeline loaded
+2019-01-29T02:44:55.405Z - normal: Loading builtin packages
+2019-01-29T02:44:55.408Z - success: asset-db-debugger loaded
+2019-01-29T02:44:55.411Z - success: code-editor loaded
+2019-01-29T02:44:55.413Z - success: color-picker loaded
+2019-01-29T02:44:55.487Z - success: google-play-instant loaded
+2019-01-29T02:44:55.488Z - success: jsb-adapter loaded
+2019-01-29T02:44:55.492Z - success: oppo-runtime loaded
+2019-01-29T02:44:55.495Z - success: package-manager loaded
+2019-01-29T02:44:55.620Z - success: qqplay-adapter loaded
+2019-01-29T02:44:55.624Z - success: sdkbox loaded
+2019-01-29T02:44:55.631Z - success: tester loaded
+2019-01-29T02:44:55.633Z - success: ui-grid loaded
+2019-01-29T02:44:55.635Z - success: ui-kit-preview-extra loaded
+2019-01-29T02:44:55.636Z - success: ui-kit-preview loaded
+2019-01-29T02:44:55.639Z - success: ui-tree loaded
+2019-01-29T02:44:55.642Z - success: vivo-runtime loaded
+2019-01-29T02:44:55.643Z - success: weapp-adapter loaded
+2019-01-29T02:44:56.849Z - normal: Loading packages
+2019-01-29T02:44:56.853Z - normal: Watching packages
+2019-01-29T02:44:57.188Z - normal: Run Application
+2019-01-29T02:44:58.363Z - success: preview server running at http://localhost:7458
+2019-01-29T02:45:04.512Z - warn: No needs to indicate the 'cc.Boolean' attribute for "AwaysFront.bStopCount", which its default value is type of Boolean.
+2019-01-29T02:45:04.530Z - warn: The 'default' attribute of 'DoubleRewardBtn.doubleReward' must be an array
+2019-01-29T02:45:04.550Z - warn: No needs to indicate the 'cc.String' attribute for "secretIconBtn.clipName", which its default value is type of String.
+2019-01-29T02:45:05.025Z - warn: The Asset used by component "cc.Sprite" in prefab "shop-node.prefab" is missing. Detailed information:
+Node path: "shop-node/bg"
+Asset url: "db://assets/Prefabs/mainPage/shop-node.prefab"
+Missing uuid: "708557d3-ae73-453b-8f99-fbf81267eea1"
+
+2019-01-29T02:45:05.025Z - warn: The Asset used by component "cc.Sprite" in prefab "shop-node.prefab" is missing. Detailed information:
+Node path: "shop-node/main/base/frame"
+Asset url: "db://assets/Prefabs/mainPage/shop-node.prefab"
+Missing uuid: "bc791c23-2dfe-473b-bfb1-ac993086b864"
+
+2019-01-29T02:45:05.026Z - warn: The Asset used by component "cc.Sprite" in prefab "shop-node.prefab" is missing. Detailed information:
+Node path: "shop-node/main/base/label"
+Asset url: "db://assets/Prefabs/mainPage/shop-node.prefab"
+Missing uuid: "74c5e0b1-d7ca-4668-8f93-cc23f50fb4d5"
+
+2019-01-29T02:45:05.035Z - warn: The Asset used by component "cc.Sprite" in prefab "handbook-node.prefab" is missing. Detailed information:
+Node path: "handbook-node/bg"
+Asset url: "db://assets/Prefabs/mainPage/handbook-node.prefab"
+Missing uuid: "708557d3-ae73-453b-8f99-fbf81267eea1"
+
+2019-01-29T02:45:05.036Z - warn: The Asset used by component "cc.Sprite" in prefab "handbook-node.prefab" is missing. Detailed information:
+Node path: "handbook-node/main/base/frame"
+Asset url: "db://assets/Prefabs/mainPage/handbook-node.prefab"
+Missing uuid: "bc791c23-2dfe-473b-bfb1-ac993086b864"
+
+2019-01-29T02:45:05.037Z - warn: The Asset used by component "cc.Sprite" in prefab "handbook-node.prefab" is missing. Detailed information:
+Node path: "handbook-node/main/base/blackFrame"
+Asset url: "db://assets/Prefabs/mainPage/handbook-node.prefab"
+Missing uuid: "af92465c-96c6-4dcc-a0ea-a73c1a59383b"
+
+2019-01-29T02:45:05.042Z - warn: The Asset used by component "cc.Sprite" in prefab "handbook-node.prefab" is missing. Detailed information:
+Node path: "handbook-node/main/ScrollView_Chicken/view/content_chicken/chookPic"
+Asset url: "db://assets/Prefabs/mainPage/handbook-node.prefab"
+Missing uuid: "14930838-1fc8-4609-89e5-faa372fffb7c"
+
+2019-01-29T02:45:05.042Z - warn: The Asset used by component "cc.Sprite" in prefab "handbook-node.prefab" is missing. Detailed information:
+Node path: "handbook-node/main/ScrollView_Chicken/view/content_chicken/chookPic"
+Asset url: "db://assets/Prefabs/mainPage/handbook-node.prefab"
+Missing uuid: "563a8f82-5388-4843-92a2-343cf5d8bccf"
+
+2019-01-29T02:45:05.043Z - warn: The Asset used by component "cc.Sprite" in prefab "handbook-node.prefab" is missing. Detailed information:
+Node path: "handbook-node/main/ScrollView_Chicken/view/content_chicken/chookPic"
+Asset url: "db://assets/Prefabs/mainPage/handbook-node.prefab"
+Missing uuid: "c8ce07fd-20db-4447-a3fd-ac19408cc7c9"
+
+2019-01-29T02:45:05.043Z - warn: The Asset used by component "cc.Sprite" in prefab "handbook-node.prefab" is missing. Detailed information:
+Node path: "handbook-node/main/ScrollView_Chicken/view/content_chicken/chookPic"
+Asset url: "db://assets/Prefabs/mainPage/handbook-node.prefab"
+Missing uuid: "563a8f82-5388-4843-92a2-343cf5d8bccf"
+
+2019-01-29T02:45:05.043Z - warn: The Asset used by component "cc.Sprite" in prefab "handbook-node.prefab" is missing. Detailed information:
+Node path: "handbook-node/main/ScrollView_Chicken/view/content_chicken/chookPic"
+Asset url: "db://assets/Prefabs/mainPage/handbook-node.prefab"
+Missing uuid: "f73052dd-80b0-4bfa-bc19-03db1b0c8227"
+
+2019-01-29T02:45:05.044Z - warn: The Asset used by component "cc.Sprite" in prefab "handbook-node.prefab" is missing. Detailed information:
+Node path: "handbook-node/main/ScrollView_Chicken/view/content_chicken/chookPic"
+Asset url: "db://assets/Prefabs/mainPage/handbook-node.prefab"
+Missing uuid: "563a8f82-5388-4843-92a2-343cf5d8bccf"
+
+2019-01-29T02:45:05.044Z - warn: The Asset used by component "cc.Sprite" in prefab "handbook-node.prefab" is missing. Detailed information:
+Node path: "handbook-node/main/ScrollView_Chicken/view/content_chicken/chookPic"
+Asset url: "db://assets/Prefabs/mainPage/handbook-node.prefab"
+Missing uuid: "0894f7cd-5f6a-4a86-9c0d-e938671e949e"
+
+2019-01-29T02:45:05.044Z - warn: The Asset used by component "cc.Sprite" in prefab "handbook-node.prefab" is missing. Detailed information:
+Node path: "handbook-node/main/ScrollView_Chicken/view/content_chicken/chookPic"
+Asset url: "db://assets/Prefabs/mainPage/handbook-node.prefab"
+Missing uuid: "563a8f82-5388-4843-92a2-343cf5d8bccf"
+
+2019-01-29T02:45:05.044Z - warn: The Asset used by component "cc.Sprite" in prefab "handbook-node.prefab" is missing. Detailed information:
+Node path: "handbook-node/main/ScrollView_Chicken/view/content_chicken/chookPic"
+Asset url: "db://assets/Prefabs/mainPage/handbook-node.prefab"
+Missing uuid: "bc250ca2-833e-4337-bdf8-7cfc701f917e"
+
+2019-01-29T02:45:05.044Z - warn: The Asset used by component "cc.Sprite" in prefab "handbook-node.prefab" is missing. Detailed information:
+Node path: "handbook-node/main/ScrollView_Chicken/view/content_chicken/chookPic"
+Asset url: "db://assets/Prefabs/mainPage/handbook-node.prefab"
+Missing uuid: "563a8f82-5388-4843-92a2-343cf5d8bccf"
+
+2019-01-29T02:45:05.044Z - warn: The Asset used by component "cc.Sprite" in prefab "handbook-node.prefab" is missing. Detailed information:
+Node path: "handbook-node/main/ScrollView_Chicken/view/content_chicken/chookPic"
+Asset url: "db://assets/Prefabs/mainPage/handbook-node.prefab"
+Missing uuid: "618c1499-64b5-4161-babf-8938ecb057ff"
+
+2019-01-29T02:45:05.044Z - warn: The Asset used by component "cc.Sprite" in prefab "handbook-node.prefab" is missing. Detailed information:
+Node path: "handbook-node/main/ScrollView_Chicken/view/content_chicken/chookPic"
+Asset url: "db://assets/Prefabs/mainPage/handbook-node.prefab"
+Missing uuid: "563a8f82-5388-4843-92a2-343cf5d8bccf"
+
+2019-01-29T02:45:05.046Z - warn: The Asset used by component "cc.Sprite" in prefab "handbook-node.prefab" is missing. Detailed information:
+Node path: "handbook-node/main/iconSprite"
+Asset url: "db://assets/Prefabs/mainPage/handbook-node.prefab"
+Missing uuid: "14930838-1fc8-4609-89e5-faa372fffb7c"
+
+2019-01-29T02:45:05.047Z - warn: The Asset used by component "cc.Sprite" in prefab "handbook-node.prefab" is missing. Detailed information:
+Node path: "handbook-node/main/iconSprite"
+Asset url: "db://assets/Prefabs/mainPage/handbook-node.prefab"
+Missing uuid: "563a8f82-5388-4843-92a2-343cf5d8bccf"
+
+2019-01-29T02:45:05.237Z - warn: The Asset used by component "cc.Sprite" in prefab "sign-node.prefab" is missing. Detailed information:
+Node path: "sign-node/bg"
+Asset url: "db://assets/Prefabs/mainPage/sign-node.prefab"
+Missing uuid: "708557d3-ae73-453b-8f99-fbf81267eea1"
+
+2019-01-29T02:45:05.238Z - warn: The Asset used by component "cc.Sprite" in prefab "sign-node.prefab" is missing. Detailed information:
+Node path: "sign-node/main/base"
+Asset url: "db://assets/Prefabs/mainPage/sign-node.prefab"
+Missing uuid: "bc791c23-2dfe-473b-bfb1-ac993086b864"
+
+2019-01-29T02:45:05.238Z - warn: The Asset used by component "cc.Sprite" in prefab "sign-node.prefab" is missing. Detailed information:
+Node path: "sign-node/main/content/heart_0/New Sprite"
+Asset url: "db://assets/Prefabs/mainPage/sign-node.prefab"
+Missing uuid: "a3cc9b43-91d2-4ee8-8b54-68e2aeae4fa0"
+
+2019-01-29T02:45:05.239Z - warn: The Asset used by component "cc.Sprite" in prefab "sign-node.prefab" is missing. Detailed information:
+Node path: "sign-node/main/content/heart_1/New Sprite"
+Asset url: "db://assets/Prefabs/mainPage/sign-node.prefab"
+Missing uuid: "a3cc9b43-91d2-4ee8-8b54-68e2aeae4fa0"
+
+2019-01-29T02:45:05.240Z - warn: The Asset used by component "cc.Sprite" in prefab "sign-node.prefab" is missing. Detailed information:
+Node path: "sign-node/main/content/heart_2/New Sprite"
+Asset url: "db://assets/Prefabs/mainPage/sign-node.prefab"
+Missing uuid: "a3cc9b43-91d2-4ee8-8b54-68e2aeae4fa0"
+
+2019-01-29T02:45:05.240Z - warn: The Asset used by component "cc.Sprite" in prefab "sign-node.prefab" is missing. Detailed information:
+Node path: "sign-node/main/content/heart_3/New Sprite"
+Asset url: "db://assets/Prefabs/mainPage/sign-node.prefab"
+Missing uuid: "a3cc9b43-91d2-4ee8-8b54-68e2aeae4fa0"
+
+2019-01-29T02:45:05.241Z - warn: The Asset used by component "cc.Sprite" in prefab "sign-node.prefab" is missing. Detailed information:
+Node path: "sign-node/main/content/heart_4/New Sprite"
+Asset url: "db://assets/Prefabs/mainPage/sign-node.prefab"
+Missing uuid: "a3cc9b43-91d2-4ee8-8b54-68e2aeae4fa0"
+
+2019-01-29T02:45:05.242Z - warn: The Asset used by component "cc.Sprite" in prefab "sign-node.prefab" is missing. Detailed information:
+Node path: "sign-node/main/content/heart_5/New Sprite"
+Asset url: "db://assets/Prefabs/mainPage/sign-node.prefab"
+Missing uuid: "a3cc9b43-91d2-4ee8-8b54-68e2aeae4fa0"
+
+2019-01-29T02:45:05.244Z - warn: The Asset used by component "cc.Sprite" in prefab "reward-node.prefab" is missing. Detailed information:
+Node path: "reward-node/bg"
+Asset url: "db://assets/Prefabs/mainPage/reward-node.prefab"
+Missing uuid: "708557d3-ae73-453b-8f99-fbf81267eea1"
+
+2019-01-29T02:45:05.244Z - warn: The Asset used by component "cc.Sprite" in prefab "reward-node.prefab" is missing. Detailed information:
+Node path: "reward-node/main/base/frame"
+Asset url: "db://assets/Prefabs/mainPage/reward-node.prefab"
+Missing uuid: "bc791c23-2dfe-473b-bfb1-ac993086b864"
+
+2019-01-29T02:45:05.244Z - warn: The Asset used by component "cc.Sprite" in prefab "reward-node.prefab" is missing. Detailed information:
+Node path: "reward-node/main/base/background"
+Asset url: "db://assets/Prefabs/mainPage/reward-node.prefab"
+Missing uuid: "cf5503f7-31a1-4bba-9ff8-fbdb3a40761c"
+
+2019-01-29T02:45:05.245Z - warn: The Asset used by component "cc.Sprite" in prefab "reward-node.prefab" is missing. Detailed information:
+Node path: "reward-node/main/base/title/label"
+Asset url: "db://assets/Prefabs/mainPage/reward-node.prefab"
+Missing uuid: "c03f0279-0e4a-4724-a257-b0e7dd0b59c2"
+
+2019-01-29T02:45:05.245Z - warn: The Asset used by component "cc.Sprite" in prefab "reward-node.prefab" is missing. Detailed information:
+Node path: "reward-node/main/addBtn/jia"
+Asset url: "db://assets/Prefabs/mainPage/reward-node.prefab"
+Missing uuid: "88537253-5405-45f2-ae08-9d4de0aedb3c"
+
+2019-01-29T02:45:05.245Z - warn: The Asset used by component "cc.Sprite" in prefab "reward-node.prefab" is missing. Detailed information:
+Node path: "reward-node/main/addBtn"
+Asset url: "db://assets/Prefabs/mainPage/reward-node.prefab"
+Missing uuid: "0d7618f6-04c1-42cb-be8b-96e070ec3fb3"
+
+2019-01-29T02:47:13.830Z - normal: Initializing...
+
+2019-01-29T02:47:13.841Z - normal: idePortFile: C:\Users\Administrator\AppData\Local\微信web开发者工具\User Data\Default\.ide
+
+2019-01-29T02:47:14.873Z - normal: starting ide...
+
+2019-01-29T02:47:22.541Z - normal: IDE server has started, listening on http://127.0.0.1:58580
+
+2019-01-29T02:47:22.547Z - normal: initialization finished
+
+2019-01-29T02:47:22.786Z - normal: open IDE success
+
+2019-01-29T02:47:46.309Z - info: shutdown preview server

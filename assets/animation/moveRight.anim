@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "moveRight",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.13333333333333333,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": 8.6
+        },
+        {
+          "frame": 0.06666666666666667,
+          "value": 158.6
+        },
+        {
+          "frame": 0.13333333333333333,
+          "value": 8.6
+        }
+      ]
+    }
+  },
+  "events": []
+}

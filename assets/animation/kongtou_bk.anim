@@ -1,0 +1,69 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "kongtou",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 8,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            360,
+            1665
+          ]
+        },
+        {
+          "frame": 8,
+          "value": [
+            360,
+            -328
+          ]
+        }
+      ],
+      "rotation": [
+        {
+          "frame": 0,
+          "value": 10
+        },
+        {
+          "frame": 1,
+          "value": -10
+        },
+        {
+          "frame": 2,
+          "value": 10
+        },
+        {
+          "frame": 3,
+          "value": -10
+        },
+        {
+          "frame": 4,
+          "value": 10
+        },
+        {
+          "frame": 5,
+          "value": -10
+        },
+        {
+          "frame": 6,
+          "value": 10
+        },
+        {
+          "frame": 7,
+          "value": -10
+        },
+        {
+          "frame": 8,
+          "value": 10
+        }
+      ]
+    }
+  },
+  "events": []
+}

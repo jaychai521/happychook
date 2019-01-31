@@ -1,0 +1,107 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "zenmewan",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.2,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": "0",
+  "curveData": {
+    "props": {
+      "rotation": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.2,
+          "value": 15
+        },
+        {
+          "frame": 0.4,
+          "value": 0
+        },
+        {
+          "frame": 0.6,
+          "value": -15
+        },
+        {
+          "frame": 0.8,
+          "value": 0
+        },
+        {
+          "frame": 1.6,
+          "value": 0
+        },
+        {
+          "frame": 1.8,
+          "value": 15
+        },
+        {
+          "frame": 2,
+          "value": 0
+        },
+        {
+          "frame": 2.2,
+          "value": -15
+        },
+        {
+          "frame": 2.4,
+          "value": 0
+        }
+      ],
+      "scale": [
+        {
+          "frame": 0.8,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 1.2,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1.5,
+            "y": 1.5
+          }
+        },
+        {
+          "frame": 1.6,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 2.4,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 2.8,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1.5,
+            "y": 1.5
+          }
+        },
+        {
+          "frame": 3.2,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        }
+      ]
+    }
+  },
+  "events": []
+}

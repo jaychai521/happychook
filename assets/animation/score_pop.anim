@@ -1,0 +1,81 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "score_pop",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": "0",
+  "curveData": {
+    "paths": {},
+    "comps": {
+      "cc.Label": {}
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -43,
+            -223
+          ]
+        },
+        {
+          "frame": 0.75,
+          "value": [
+            -59,
+            -92
+          ]
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.3,
+          "value": 254
+        },
+        {
+          "frame": 0.75,
+          "value": 254
+        },
+        {
+          "frame": 0.95,
+          "value": 51.00000000000003
+        },
+        {
+          "frame": 1,
+          "value": 0
+        }
+      ],
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 0.75,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1.2,
+            "y": 1.2
+          }
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 1,
+      "func": "hideFX",
+      "params": []
+    }
+  ]
+}

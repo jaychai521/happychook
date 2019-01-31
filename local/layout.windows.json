@@ -1,0 +1,114 @@
+{
+  "version": "1.1.1",
+  "windows": {
+    "main": {
+      "main": true,
+      "url": "app://editor/index.html",
+      "windowType": "dockable",
+      "x": -8,
+      "y": -8,
+      "width": 1936,
+      "height": 1056,
+      "layout": {
+        "children": [
+          {
+            "active": 0,
+            "children": [
+              "assets"
+            ],
+            "height": 929,
+            "type": "panel",
+            "width": 277
+          },
+          {
+            "active": 0,
+            "children": [
+              "hierarchy"
+            ],
+            "height": 929,
+            "type": "panel",
+            "width": 340
+          },
+          {
+            "active": 0,
+            "children": [
+              "scene"
+            ],
+            "height": 929,
+            "type": "panel",
+            "width": 542
+          },
+          {
+            "children": [
+              {
+                "active": 1,
+                "children": [
+                  "inspector",
+                  "builder"
+                ],
+                "height": 660,
+                "type": "panel",
+                "width": 746
+              },
+              {
+                "active": 0,
+                "children": [
+                  "console",
+                  "timeline"
+                ],
+                "height": 266,
+                "type": "panel",
+                "width": 746
+              }
+            ],
+            "height": 929,
+            "type": "dock-v",
+            "width": 746
+          }
+        ],
+        "type": "dock-h"
+      },
+      "panels": [
+        "hierarchy",
+        "inspector",
+        "builder",
+        "console",
+        "timeline",
+        "assets",
+        "scene"
+      ]
+    }
+  },
+  "panels": {
+    "builder": {
+      "x": 627,
+      "y": 141,
+      "width": 670,
+      "height": 738
+    },
+    "sprite-editor": {
+      "x": 756,
+      "y": 442,
+      "width": 516,
+      "height": 538
+    },
+    "project-settings": {
+      "x": 612,
+      "y": 263,
+      "width": 600,
+      "height": 564
+    },
+    "timeline": {
+      "x": 611,
+      "y": 453,
+      "width": 520,
+      "height": 338
+    },
+    "preferences": {
+      "x": 662,
+      "y": 241,
+      "width": 600,
+      "height": 564
+    }
+  }
+}
